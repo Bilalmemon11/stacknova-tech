@@ -1,0 +1,24 @@
+frontend : 
+cd stacknova-tech
+npm run dev
+
+
+
+backend : 
+npm start 
+node run.js
+
+
+
+
+Go to your Admin Login page in the browser and enter:
+
+Email: admin@gmail.com
+
+Password: admin123
+
+Try logging in on your frontend using:
+
+Email: admin@example.com
+
+Password: admin123
