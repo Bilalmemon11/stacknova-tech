@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 // Social Icons
 import { FaLinkedin, FaFacebook, FaWhatsapp } from "react-icons/fa";
-import { SiFiverr, SiUpwork } from "react-icons/si";
+
 
 export default function About() {
   return (
@@ -49,12 +49,6 @@ export default function About() {
               <div className="flex gap-4 text-cyan-400 text-2xl">
                 <a href="https://www.linkedin.com/in/bilal-memon-695a00259" target="_blank" rel="noopener noreferrer">
                   <FaLinkedin />
-                </a>
-                <a href="https://www.fiverr.com/hafizbilalra422?public_mode=true" target="_blank" rel="noopener noreferrer">
-                  <SiFiverr />
-                </a>
-                <a href="https://www.upwork.com/freelancers/~013feed3ff12ceebb8?viewMode=1" target="_blank" rel="noopener noreferrer">
-                  <SiUpwork />
                 </a>
                 <a href="https://www.facebook.com/your-page" target="_blank" rel="noopener noreferrer">
                   <FaFacebook />
