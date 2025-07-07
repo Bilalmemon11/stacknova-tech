@@ -5,12 +5,12 @@ import { motion } from "framer-motion";
 const plans = [
   {
     name: "Basic",
-    price: "$200",
+    price: "$100",
     features: ["Single Page Website", "Responsive Design", "Basic SEO", "3 Revisions"],
   },
   {
     name: "Standard",
-    price: "$500",
+    price: "$250",
     features: ["Multi-Page Website",
        "Custom Design",
         "On-Page SEO", 
