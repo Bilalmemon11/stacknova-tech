@@ -1,1 +1,122 @@
-
+[
+  {
+    "id": 1,
+    "title": "Why You Should Choose Custom Software Solutions",
+    "summary": "Learn how tailored software can boost your business efficiency and scalability.",
+    "content": "Custom software is built for your business needs. It increases efficiency, reduces costs, and grows with your company...",
+    "image": "/blog1.jpg",
+    "date": "June 15, 2025"
+  },
+  {
+    "id": 2,
+    "title": "Top 5 Reasons to Use MERN Stack for Your Next Project",
+    "summary": "Discover the power of MongoDB, Express, React, and Node.js in modern web development.",
+    "content": "The MERN stack combines MongoDB, Express, React, and Node.js. It's fast, scalable, and perfect for modern web apps...",
+    "image": "/blog2.jpg",
+    "date": "June 10, 2025"
+  },
+  {
+    "id": 3,
+    "title": "Tailwind CSS vs Bootstrap: Which Should You Use?",
+    "summary": "Comparing two popular CSS frameworks for modern frontend development.",
+    "content": "Tailwind CSS gives you utility-first design freedom, while Bootstrap provides pre-built components. Learn which suits your project better...",
+    "image": "/blog3.png",
+    "date": "June 1, 2025"
+  },
+  {
+    "id": 4,
+    "title": "Top 7 SaaS Tools Every Startup Must Use in 2025",
+    "summary": "From project management to marketing, explore the must-have SaaS tools for scaling startups.",
+    "content": "Startups can’t waste time reinventing the wheel. These SaaS tools for project management, CRM, and marketing automation will help you scale faster...",
+    "image": "/blog-saas.jpg",
+    "date": "September 2, 2025"
+  },
+  {
+    "id": 5,
+    "title": "Why Businesses Are Moving Towards Cloud SaaS Solutions",
+    "summary": "Cloud SaaS is cost-effective, secure, and scalable. Here's why companies are adopting it fast.",
+    "content": "Cloud SaaS reduces IT overhead, improves accessibility, and offers world-class security. That’s why businesses are rapidly switching to SaaS platforms...",
+    "image": "/blog5.jpg",
+    "date": "September 1, 2025"
+  },
+  {
+    "id": 6,
+    "title": "10 Best SaaS Marketing Strategies for 2025",
+    "summary": "Learn how to promote your SaaS product effectively in 2025.",
+    "content": "From content marketing to paid ads, explore strategies that help SaaS companies grow fast in a competitive market...",
+    "image": "/blog6.jpg",
+    "date": "August 25, 2025"
+  },
+  {
+    "id": 7,
+    "title": "AI-Powered SaaS: The Future of Business Tools",
+    "summary": "Artificial Intelligence is revolutionizing SaaS platforms worldwide.",
+    "content": "AI is making SaaS smarter with automation, predictive analytics, and personalization. Discover the best AI-SaaS use cases...",
+    "image": "/blog-ai.jpg",
+    "date": "August 20, 2025"
+  },
+  {
+    "id": 8,
+    "title": "How to Scale Your SaaS Startup Without Investors",
+    "summary": "Practical growth hacks for bootstrapped SaaS founders.",
+    "content": "Learn how you can scale your SaaS startup with organic marketing, customer retention, and low-cost automation tools...",
+    "image": "/blog8.jpg",
+    "date": "August 18, 2025"
+  },
+  {
+    "id": 9,
+    "title": "Best Project Management Tools for Remote Teams",
+    "summary": "A comparison of top project management SaaS tools in 2025.",
+    "content": "Explore tools like Trello, Asana, Jira, and ClickUp to see which suits your remote team best...",
+    "image": "/blog9.jpg",
+    "date": "August 10, 2025"
+  },
+  {
+    "id": 10,
+    "title": "SaaS Pricing Models Explained: Which One is Right for You?",
+    "summary": "Understand the pros and cons of different SaaS pricing strategies.",
+    "content": "From freemium to subscription and usage-based models, learn how to pick the best pricing for your SaaS business...",
+    "image": "/blog10.jpg",
+    "date": "August 5, 2025"
+  },
+  {
+    "id": 11,
+    "title": "Cybersecurity in SaaS: How to Keep Your Data Safe",
+    "summary": "Top SaaS security practices for businesses in 2025.",
+    "content": "With increasing cyber threats, SaaS companies must adopt encryption, multi-factor authentication, and compliance standards...",
+    "image": "/blog11.jpg",
+    "date": "July 30, 2025"
+  },
+  {
+    "id": 12,
+    "title": "Low-Code vs No-Code SaaS: What’s the Difference?",
+    "summary": "Simplifying app development with new SaaS platforms.",
+    "content": "Low-code platforms give flexibility, while no-code empowers non-developers. Explore which is best for your business use case...",
+    "image": "/blog12.jpg",
+    "date": "July 25, 2025"
+  },
+  {
+    "id": 13,
+    "title": "Top 5 SaaS CRM Tools for Small Businesses",
+    "summary": "Affordable and powerful CRM SaaS tools for 2025.",
+    "content": "CRM tools like HubSpot, Zoho, and Pipedrive can transform customer relationships for small businesses...",
+    "image": "/blog13.jpg",
+    "date": "July 20, 2025"
+  },
+  {
+    "id": 14,
+    "title": "Future of SaaS: Trends to Watch in 2026",
+    "summary": "Emerging SaaS trends that will dominate the industry.",
+    "content": "SaaS is evolving with AI, blockchain, and industry-specific solutions. Here’s what to expect in the coming year...",
+    "image": "/blog14.jpg",
+    "date": "July 15, 2025"
+  },
+  {
+    "id": 15,
+    "title": "Best SaaS Tools for Content Creators in 2025",
+    "summary": "From design to video editing, explore SaaS apps for creators.",
+    "content": "Canva, Descript, Notion, and more SaaS tools are helping creators build content faster and smarter...",
+    "image": "/blog15.jpg",
+    "date": "July 10, 2025"
+  }
+]
