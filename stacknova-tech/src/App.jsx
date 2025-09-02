@@ -8,6 +8,7 @@ import ProjectDetail from "./pages/1ProjectDetail";
 import Quote from "./pages/Quote";
 import PortfolioPage from "./pages/PortfolioPage";
 import Blog from "./pages/Blog";
+import BlogDetail from "./pages/BlogDetail";
 
 // Admin
 // import AdminLogin from "./components/AdminLogin";
@@ -25,6 +26,7 @@ const App = () => {
         <Route path="/quote" element={<Quote />} />
         <Route path="/portfolio" element={<PortfolioPage />} />
         <Route path="/blog" element={<Blog />} />
+        <Route path="/blog/:id" element={<BlogDetail />} />
         {/* <Route path="/admin/login" element={<AdminLogin />} /> */}
 
         {/* ✅ Protected Routes */}
