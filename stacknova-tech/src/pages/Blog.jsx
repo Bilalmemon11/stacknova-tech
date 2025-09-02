@@ -74,7 +74,7 @@ const BlogPage = () => {
                   <p className="text-sm text-gray-400 mb-1">{post.date}</p>
                   <h3 className="text-lg font-semibold mb-2">{post.title}</h3>
                   <p className="text-sm text-gray-300 mb-3">{post.summary}</p>
-                  <Link to={`/blog`} className="text-cyan-400 hover:underline text-sm">
+                  <Link to={`/blog/${post.id}`} className="text-cyan-400 hover:underline text-sm">
                     Read More →
                   </Link>
                 </div>
